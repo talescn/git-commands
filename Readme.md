@@ -1,6 +1,6 @@
 ## Como clonar um repositóio
 
-Passo a passo:
+1 Etapa - Passo a passo:
 
 ```bash
 # Navegando até o disco C
@@ -18,6 +18,11 @@ git clone <link-repositorio>
 # Acessando o repositório
 cd <path-repositorio>
 ```
+
+## setup
+
+1 - Baixar VSCODE
+2 - Instalar GIt
 
 ## minha empresa 
 
