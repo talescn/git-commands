@@ -23,3 +23,7 @@ cd <path-repositorio>
 
 1 - Baixar VSCODE
 2 - Instalar GIt
+
+## minha empresa 
+
+AUtor: minha empresa 
